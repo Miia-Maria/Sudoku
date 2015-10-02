@@ -31,3 +31,4 @@ RefactoringAction 1443780892099 SudokuVerifier.java RENAME candi=>String candida
 RefactoringAction 1443781586407 TestSudokuVerifier.java ADD String candidateSolution FIELD
 RefactoringAction 1443781641428 TestSudokuVerifier.java REMOVE numberAppearsOnlyOnceInRow() METHOD
 EditAction 1443782181758 TestSudokuVerifier.java 490 2 3 0
+EditAction 1443782185972 SudokuVerifier.java 222 1 1 0
