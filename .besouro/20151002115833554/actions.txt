@@ -32,3 +32,6 @@ RefactoringAction 1443781586407 TestSudokuVerifier.java ADD String candidateSolu
 RefactoringAction 1443781641428 TestSudokuVerifier.java REMOVE numberAppearsOnlyOnceInRow() METHOD
 EditAction 1443782181758 TestSudokuVerifier.java 490 2 3 0
 EditAction 1443782185972 SudokuVerifier.java 222 1 1 0
+UnitTestCaseAction 1443782190838 TestSudokuVerifier.java FAIL
+UnitTestSessionAction 1443782190843 TestSudokuVerifier FAIL
+EditAction 1443782982922 TestSudokuVerifier.java 594 2 5 0
