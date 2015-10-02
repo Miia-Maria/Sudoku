@@ -1,0 +1,33 @@
+FileOpenedAction 1443776313696 TestSudokuVerifier.java 202 1 1 0
+RefactoringAction 1443777365570 SudokuVerifier.java ADD List firstRow FIELD
+RefactoringAction 1443777414694 SudokuVerifier.java REMOVE firstRow FIELD
+RefactoringAction 1443778419818 TestSudokuVerifier.java ADD void is FIELD
+RefactoringAction 1443778426341 TestSudokuVerifier.java RENAME is=>void isTwoFirst FIELD
+RefactoringAction 1443778429360 TestSudokuVerifier.java RENAME isTwoFirst=>void isTwoFirstSame FIELD
+RefactoringAction 1443778438879 TestSudokuVerifier.java RENAME isTwoFirstSame=>void is FIELD
+RefactoringAction 1443778440399 TestSudokuVerifier.java RENAME is=>void isThe FIELD
+RefactoringAction 1443778443918 TestSudokuVerifier.java RENAME isThe=>void isTheFirstNumber FIELD
+RefactoringAction 1443778448937 TestSudokuVerifier.java RENAME isTheFirstNumber=>void isTheFirstNumberPosi FIELD
+RefactoringAction 1443778450456 TestSudokuVerifier.java RENAME isTheFirstNumberPosi=>void isTheFirstNumberPositie FIELD
+RefactoringAction 1443778451975 TestSudokuVerifier.java RENAME isTheFirstNumberPositie=>void isTheFirstNumberPositive FIELD
+RefactoringAction 1443778454994 TestSudokuVerifier.java RENAME isTheFirstNumberPositive=>void isTheFirstNumberPositive() METHOD
+RefactoringAction 1443779505345 TestSudokuVerifier.java RENAME isTheFirstNumberPositive()=><initializer /1> null
+RefactoringAction 1443779509363 TestSudokuVerifier.java RENAME <initializer /1>=>void ifTh() METHOD
+RefactoringAction 1443779511380 TestSudokuVerifier.java RENAME ifTh()=><initializer /1> null
+RefactoringAction 1443779532899 TestSudokuVerifier.java RENAME <initializer /1>=>void digitA() METHOD
+RefactoringAction 1443779534915 TestSudokuVerifier.java RENAME digitA()=>void digitAppears() METHOD
+RefactoringAction 1443779538431 TestSudokuVerifier.java RENAME digitAppears()=>void digitAppearsOnlyOnce() METHOD
+RefactoringAction 1443779547949 TestSudokuVerifier.java RENAME digitAppearsOnlyOnce()=>void digitAppearsOnlyOnceIn() METHOD
+RefactoringAction 1443779551965 TestSudokuVerifier.java RENAME digitAppearsOnlyOnceIn()=>void digitAppearsOnlyOnceInR() METHOD
+RefactoringAction 1443779552981 TestSudokuVerifier.java RENAME digitAppearsOnlyOnceInR()=>void digitAppearsOnlyOnceInRo() METHOD
+RefactoringAction 1443779554498 TestSudokuVerifier.java RENAME digitAppearsOnlyOnceInRo()=>void digitAppearsOnlyOnceInRow() METHOD
+RefactoringAction 1443779583150 TestSudokuVerifier.java RENAME digitAppearsOnlyOnceInRow()=>void AppearsOnlyOnceInRow() METHOD
+RefactoringAction 1443779586167 TestSudokuVerifier.java RENAME AppearsOnlyOnceInRow()=>void numberAppearsOnlyOnceInRow() METHOD
+RefactoringAction 1443780232231 TestSudokuVerifier.java ADD void isFirstNumberPositive() METHOD
+RefactoringAction 1443780612556 TestSudokuVerifier.java ADD string candidateSolution FIELD
+RefactoringAction 1443780656576 TestSudokuVerifier.java REMOVE candidateSolution FIELD
+RefactoringAction 1443780888082 SudokuVerifier.java ADD String candi FIELD
+RefactoringAction 1443780892099 SudokuVerifier.java RENAME candi=>String candidateSolution FIELD
+RefactoringAction 1443781586407 TestSudokuVerifier.java ADD String candidateSolution FIELD
+RefactoringAction 1443781641428 TestSudokuVerifier.java REMOVE numberAppearsOnlyOnceInRow() METHOD
+EditAction 1443782181758 TestSudokuVerifier.java 490 2 3 0
